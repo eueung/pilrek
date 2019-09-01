@@ -1,19 +1,33 @@
-Timestamp,Email Address,Kategori Anda,Kategori Umur Anda,CaRek Pilihan,Alasan Memilih CaRek,Harapan Anda
-9/1/2019 7:47:18,ryan.a.nugraha.el@gmail.com,Alumni,25 - 40 th,Jaka Sembiring (STEI),Sesuai dengan kriteria kekinian (Rektor 4.0),
-9/1/2019 8:33:56,budi1993@yahoo.com,Alumni,> 40 th,Suhono Harso Supangkat (STEI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,
-9/1/2019 8:59:43,nikop0003@gmail.com,Umum,25 - 40 th,Suhono Harso Supangkat (STEI),Sesuai dengan kriteria kekinian (Rektor 4.0),"Menjadikan itb peningkat sumber daya manusia indonesia untuk memasuki era smart, dan industri 4.0 dengan baik dan maximal"
-9/1/2019 9:26:44,diniyr@stei.itb.ac.id,Pegawai / Tendik,> 40 th,Suhono Harso Supangkat (STEI),Sesuai dengan kriteria kekinian (Rektor 4.0),
-9/1/2019 12:25:40,rindiamp@gmail.com,Dosen,25 - 40 th,Kadarsah Suryadi (FTI-TI),Karakter kepemimpinan dan leadership,
-9/1/2019 12:26:46,andi.madagaskar@gmail.com,Pegawai / Tendik,25 - 40 th,Suhono Harso Supangkat (STEI),"Mendatangkan dana riset dan kerjasama eksternal, dalam dan luar negeri",Dapat menjadikan ITB lebih berkembang lagi dalam memajukan Indonesia
-9/1/2019 12:27:13,albertusjoko92@gmail.com,Alumni,> 40 th,Suhono Harso Supangkat (STEI),Keberhasilan dan prestasi,ITB lebih meningkat secara kualitas
-9/1/2019 12:28:42,rahmat.mulyawan@lskk.ee.itb.ac.id,Dosen,25 - 40 th,Bambang Riyanto T (STEI),Akhlak dan budi pekerti,ITB menjadi kampus yang lebih ramah terhadap penyandang disabilitas
-9/1/2019 12:54:47,yunienurhayati@gmail.com,Dosen,25 - 40 th,Miming Miharja (SAPPK-PL),Karakter kepemimpinan dan leadership,"Semoga rektor terpilih bisa meningkatkan kualitas ITB dan kesejahteraan dosen, terutama dosen-dosen muda"
-9/1/2019 13:58:03,lisbeth.anna@gmail.com,Umum,> 40 th,Togar M Simatupang (SBM),Keberhasilan dan prestasi,"Prof. Togar Simatupang, memiliki kapabilitas memimpin dan mengembangkan ITB, meningkatkan industri 4.0 dan memberi nilai tambah bagi pengembangan ilmu dan pengetahuan bagi ITB khususnya dan Indonesia umumnya serta dengan karakter terpuji dapat membawa pembaharuan mendunia tanpa meninggalkan nilai kesejatian ITB. Tepat menjadi Rektor ITB. Semoga Tuhan meridhoi."
-9/1/2019 14:00:04,hariadi1981@gmail.com,Dosen,> 40 th,Jaka Sembiring (STEI),Kecerdasan dan keberanian utk kemajuan ITB,Semoga Rektor yang terpiih mampu membawa perubahan ke arah perbaikan yang signifikan ..
-9/1/2019 14:00:20,fiansmamda@gmail.com,Alumni,25 - 40 th,Acep Purqon (FMIPA-FI),"Mendatangkan dana riset dan kerjasama eksternal, dalam dan luar negeri",
-9/1/2019 14:01:25,adeth_sphine@yahoo.com,Umum,25 - 40 th,Togar M Simatupang (SBM),Keberhasilan dan prestasi, Prof. Togar Simatupang semoga dapat memimpin ITB dengan baik dan mampu bersaing
-9/1/2019 14:01:54,ahsanahadilah@gmail.com,Mahasiswa,< 25 th,Acep Purqon (FMIPA-FI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,ITB yang lebih baik bersama Pa Acep
-9/1/2019 14:02:17,Fwyudhi07@gmail.com,Mahasiswa,< 25 th,Acep Purqon (FMIPA-FI),Kecerdasan dan keberanian utk kemajuan ITB,
-9/1/2019 14:02:39,feby.genta.a@gmail.com,Alumni,< 25 th,Acep Purqon (FMIPA-FI),Muda dan berenergi,"Harapan saya adalah ITB menjadi kampus yang memperhatikan kurikulumnya dengan kebutuhan industri dan dunia nyata.
+Timestamp,Kategori Anda,Kategori Umur Anda,CaRek Pilihan,Alasan Memilih CaRek,Harapan Anda
+9/1/2019 7:47:18,Alumni,25 - 40 th,Jaka Sembiring (STEI),Sesuai dengan kriteria kekinian (Rektor 4.0),
+9/1/2019 8:33:56,Alumni,> 40 th,Suhono Harso Supangkat (STEI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,
+9/1/2019 8:59:43,Umum,25 - 40 th,Suhono Harso Supangkat (STEI),Sesuai dengan kriteria kekinian (Rektor 4.0),"Menjadikan itb peningkat sumber daya manusia indonesia untuk memasuki era smart, dan industri 4.0 dengan baik dan maximal"
+9/1/2019 9:26:44,Pegawai / Tendik,> 40 th,Suhono Harso Supangkat (STEI),Sesuai dengan kriteria kekinian (Rektor 4.0),
+9/1/2019 12:25:40,Dosen,25 - 40 th,Kadarsah Suryadi (FTI-TI),Karakter kepemimpinan dan leadership,
+9/1/2019 12:26:46,Pegawai / Tendik,25 - 40 th,Suhono Harso Supangkat (STEI),"Mendatangkan dana riset dan kerjasama eksternal, dalam dan luar negeri",Dapat menjadikan ITB lebih berkembang lagi dalam memajukan Indonesia
+9/1/2019 12:27:13,Alumni,> 40 th,Suhono Harso Supangkat (STEI),Keberhasilan dan prestasi,ITB lebih meningkat secara kualitas
+9/1/2019 12:28:42,Dosen,25 - 40 th,Bambang Riyanto T (STEI),Akhlak dan budi pekerti,ITB menjadi kampus yang lebih ramah terhadap penyandang disabilitas
+9/1/2019 12:54:47,Dosen,25 - 40 th,Miming Miharja (SAPPK-PL),Karakter kepemimpinan dan leadership,"Semoga rektor terpilih bisa meningkatkan kualitas ITB dan kesejahteraan dosen, terutama dosen-dosen muda"
+9/1/2019 13:58:03,Umum,> 40 th,Togar M Simatupang (SBM),Keberhasilan dan prestasi,"Prof. Togar Simatupang, memiliki kapabilitas memimpin dan mengembangkan ITB, meningkatkan industri 4.0 dan memberi nilai tambah bagi pengembangan ilmu dan pengetahuan bagi ITB khususnya dan Indonesia umumnya serta dengan karakter terpuji dapat membawa pembaharuan mendunia tanpa meninggalkan nilai kesejatian ITB. Tepat menjadi Rektor ITB. Semoga Tuhan meridhoi."
+9/1/2019 14:00:04,Dosen,> 40 th,Jaka Sembiring (STEI),Kecerdasan dan keberanian utk kemajuan ITB,Semoga Rektor yang terpiih mampu membawa perubahan ke arah perbaikan yang signifikan ..
+9/1/2019 14:00:20,Alumni,25 - 40 th,Acep Purqon (FMIPA-FI),"Mendatangkan dana riset dan kerjasama eksternal, dalam dan luar negeri",
+9/1/2019 14:01:25,Umum,25 - 40 th,Togar M Simatupang (SBM),Keberhasilan dan prestasi, Prof. Togar Simatupang semoga dapat memimpin ITB dengan baik dan mampu bersaing
+9/1/2019 14:01:54,Mahasiswa,< 25 th,Acep Purqon (FMIPA-FI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,ITB yang lebih baik bersama Pa Acep
+9/1/2019 14:02:17,Mahasiswa,< 25 th,Acep Purqon (FMIPA-FI),Kecerdasan dan keberanian utk kemajuan ITB,
+9/1/2019 14:02:39,Alumni,< 25 th,Acep Purqon (FMIPA-FI),Muda dan berenergi,"Harapan saya adalah ITB menjadi kampus yang memperhatikan kurikulumnya dengan kebutuhan industri dan dunia nyata.
 
 Tidak menganaktirikan teman-teman FMIPA yang ingin berkarir di industri dengan kurikulum yang hanya berfokus pada sisi akademis dan mengabaikan industri."
+9/1/2019 14:03:29,Dosen,> 40 th,Kadarsah Suryadi (FTI-TI),Keberhasilan dan prestasi,"ITB dekat sama masyarakat , solusi bagi bangsa dan negara, serta dunia dan akherat"
+9/1/2019 14:05:53,Mahasiswa,25 - 40 th,Acep Purqon (FMIPA-FI),Kecerdasan dan keberanian utk kemajuan ITB,Semoga dengan bekal track record dan pengalaman beliau di berbagai dunia pendidikan dapat teraplikasikan dan menjadi napak tilas utk kemajuan ITB diberbagai bidang dan untuk kemajuan RI. Aamiin.
+9/1/2019 14:09:00,Mahasiswa,25 - 40 th,Acep Purqon (FMIPA-FI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,ITB lebih unggul dengan adab yang baik dan ilmu yang bermanfaat 
+9/1/2019 14:09:23,Alumni,< 25 th,Acep Purqon (FMIPA-FI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,Kolaborasi riset dengan kampus2 top dunia meningkat dan makin luas. Internship untuk mahasiswa dan alumni dengan berbagai industri top semakin terbuka. 
+9/1/2019 14:13:05,Umum,< 25 th,Acep Purqon (FMIPA-FI),Kecerdasan dan keberanian utk kemajuan ITB,
+9/1/2019 14:16:20,Alumni,25 - 40 th,Acep Purqon (FMIPA-FI),Karakter kepemimpinan dan leadership,Rektor yg terpilih agar dapat lebih mengaktifkan kerja sama dengan IA ITB
+9/1/2019 14:17:34,Mahasiswa,< 25 th,Acep Purqon (FMIPA-FI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,Semoga rektor yang terpilih dapat memiliki semangat yang tinggi dan totalitas
+9/1/2019 14:20:54,Mahasiswa,25 - 40 th,Acep Purqon (FMIPA-FI),"Mendatangkan dana riset dan kerjasama eksternal, dalam dan luar negeri",
+9/1/2019 14:22:04,Mahasiswa,25 - 40 th,Acep Purqon (FMIPA-FI),Muda dan berenergi,Itb lebih maju lagi 
+9/1/2019 14:23:10,Mahasiswa,< 25 th,Acep Purqon (FMIPA-FI),Tipe yg futuristik dan outside-the-box yg bisa menangkap peluang masa depan,
+9/1/2019 14:28:52,Alumni,> 40 th,Dwi Larso (SBM / President Univ),Kapabilitas ybs utk meningkatkan ranking ITB,
+9/1/2019 14:31:36,Dosen,25 - 40 th,Acep Purqon (FMIPA-FI),Kapabilitas ybs utk memajukan riset dan industri RI,"semoga dengan beliau menjadi rektor ITB selain bisa menigktkn kinerja dan kwalitas ITB jg bisa melakukan kerja sama dengan kmpus"" di bagian indonesia timur agar bisa maju dan berkembng seperti ITB dan bisa bersaing di bidag teknologi dan industri...be excellent"
+9/1/2019 14:31:55,Mahasiswa,25 - 40 th,Acep Purqon (FMIPA-FI),Karakter kepemimpinan dan leadership,Free asrama sangkuriang itb and better service to international students
+9/1/2019 14:34:43,Mahasiswa,< 25 th,Edy Tri Baskoro (FMIPA-MA),Keberhasilan dan prestasi,Semoga sukses ke depannya ITB

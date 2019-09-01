@@ -15,6 +15,7 @@ Raw data akan diperbaharui secara berkala, sesuai dengan data yg terekam oleh fo
 
 ## Akses Jupyter Notebook (Google Colab)
 
+- [Data Survey](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek.ipynb)
 - [Data Survey Anonim](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek-anon.ipynb)
 
 ## Lisensi
