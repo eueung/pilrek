@@ -1,11 +1,11 @@
-# Survey NON-FORMAL Pemilihan Rektor ITB 2020
+# Survey UNOFFICIAL Pemilihan Rektor ITB 2020
 
 Repo ini berisi beberapa seed jupyter notebook dan raw data survey berikut:
 
 - http://bit.ly/pilrekitb2020 (dengan identitas email)
 - http://bit.ly/pilrekitb2020-anon (anonim, tanpa identitas)
 
-Mohon diperhatikan bahwa survey ini adalah NON-FORMAL dan tidak ada hubungannya dengan proses pemilihan CaRek oleh MWA ITB. 
+Mohon diperhatikan bahwa survey ini adalah NON-FORMAL UNOFFICIAL dan tidak ada hubungannya dengan proses pemilihan CaRek oleh MWA ITB. 
 
 Tujuan dari survey pengumpulan data ini antara lain adalah:
 - untuk digunakan dalam pembelajaran data science (e.g. ET-3107 Advanced Programming)
@@ -18,14 +18,14 @@ Raw data akan diperbaharui secara berkala, sesuai dengan data yg terekam oleh fo
 - [Data Survey](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek.ipynb)
 - [Data Survey Anonim](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek-anon.ipynb)
 
-## Hasil Sementara (05-09-2019 18:30)
+## Hasil Sementara (06-09-2019 05:30)
 
-![](images/pilrek-anon_05-09-19_18-30.png)
-![](images/pilrek_05-09-19_18-30.png)
-![](images/cat-anon_05-09-19_18-30.png)
-![](images/cat_05-09-19_18-30.png)
-![](images/age-anon_05-09-19_18-30.png)
-![](images/age_05-09-19_18-30.png)
+![](images/pilrek-anon_06-09-19_05-30.png)
+![](images/pilrek_06-09-19_05-30.png)
+![](images/cat-anon_06-09-19_05-30.png)
+![](images/cat_06-09-19_05-30.png)
+![](images/age-anon_06-09-19_05-30.png)
+![](images/age_06-09-19_05-30.png)
 
 ## Lisensi
 
