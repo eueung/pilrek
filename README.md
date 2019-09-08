@@ -7,6 +7,8 @@ Repo ini berisi beberapa seed jupyter notebook dan raw data survey berikut:
 
 Mohon diperhatikan bahwa survey ini adalah NON-FORMAL UNOFFICIAL dan tidak ada hubungannya dengan proses pemilihan CaRek oleh MWA ITB. 
 
+Beberapa grafik visualisasi dan data setelah processing dapat dilihat di https://eueung.github.io/pilrek/
+
 Tujuan dari survey pengumpulan data ini antara lain adalah:
 - untuk digunakan dalam pembelajaran data science (e.g. ET-3107 Advanced Programming)
 - apabila partisipasi dan coverage survey cukup luas, data masukan audiens juga akan disosialisasikan kepada civitas dengan harapan dapat sampai kepada para CaRek sehingga dapat konstruktif untuk kebaikan dan kemajuan bersama.
@@ -18,14 +20,16 @@ Raw data akan diperbaharui secara berkala, sesuai dengan data yg terekam oleh fo
 - [Data Survey](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek.ipynb)
 - [Data Survey Anonim](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek-anon.ipynb)
 
-## Hasil Sementara (08-09-2019 15:34)
+## Hasil Sementara (09-09-2019 04:23)
 
-![](images/pilrek-anon_08-09-19_15-34.png)
-![](images/pilrek_08-09-19_15-34.png)
-![](images/cat-anon_08-09-19_15-34.png)
-![](images/cat_08-09-19_15-34.png)
-![](images/age-anon_08-09-19_15-34.png)
-![](images/age_08-09-19_15-34.png)
+Visualisasi lain dan hasil data post-processing dapat dilihat di [GitHub Pages](https://eueung.github.io/pilrek/).
+
+![](images/pilrek-anon_09-09-19_04-23.png)
+![](images/pilrek_09-09-19_04-23.png)
+![](images/cat-anon_09-09-19_04-23.png)
+![](images/cat_09-09-19_04-23.png)
+![](images/age-anon_09-09-19_04-23.png)
+![](images/age_09-09-19_04-23.png)
 
 ## Lisensi
 
