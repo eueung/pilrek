@@ -20,14 +20,14 @@ Raw data akan diperbaharui secara berkala, sesuai dengan data yg terekam oleh fo
 - [Data Survey](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek.ipynb)
 - [Data Survey Anonim](https://colab.research.google.com/github/eueung/pilrek/blob/master/pilrek-anon.ipynb)
 
-## Hasil Sementara (24-09-2019 14:08)
+## Hasil Sementara (25-09-2019 18:16)
 
-![](images/pilrek-anon_24-09-19_14-08.png)
-![](images/pilrek_24-09-19_14-08.png)
-![](images/cat-anon_24-09-19_14-08.png)
-![](images/cat_24-09-19_14-08.png)
-![](images/age-anon_24-09-19_14-08.png)
-![](images/age_24-09-19_14-08.png)
+![](images/pilrek-anon_25-09-19_18-16.png)
+![](images/pilrek_25-09-19_18-16.png)
+![](images/cat-anon_25-09-19_18-16.png)
+![](images/cat_25-09-19_18-16.png)
+![](images/age-anon_25-09-19_18-16.png)
+![](images/age_25-09-19_18-16.png)
 
 
 ## Data Post-Processing & Web Render
