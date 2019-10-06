@@ -1,3 +1,4 @@
+# Buat latihan github
 # Survey UNOFFICIAL Pemilihan Rektor ITB 2020
 
 Repo ini berisi beberapa seed jupyter notebook dan raw data survey berikut:
