@@ -1,2 +1,0 @@
-# Folder reserved for contributions
-
